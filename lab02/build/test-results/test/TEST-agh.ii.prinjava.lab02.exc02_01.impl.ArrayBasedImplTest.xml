@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-10-20T16:56:30" hostname="LAPTOP-AFUF7EHL" time="0.017">
+  <properties/>
+  <testcase name="newStackIsEmpty()" classname="agh.ii.prinjava.lab02.exc02_01.impl.ArrayBasedImplTest" time="0.017"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
